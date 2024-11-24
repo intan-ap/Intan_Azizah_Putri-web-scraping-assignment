@@ -1,0 +1,13 @@
+﻿index,Title,Keterampilan,Rating,Ulasan,Tingkat,Produk,Durasi
+"1,IBM Data Engineering,""Data Management, Apache, Extract"",""4,6"",54000,Beginner,Professional Certificate,3 - 6 Months"
+"2,Data Engineering Foundations,""Data Engineering, Data Management, Extract"",""4,6"",52000,Beginner,Specialization,3 - 6 Months"
+"3,DeepLearning.AI Data Engineering,""Data Architecture, Feature Engineering"",""4,8"",223,Intermediate,Professional Certificate,3 - 6 Months"
+"4,Meta Database Engineer,""SQL, Databases, Statistical Programming"",""4,6"",6400,Beginner,Professional Certificate,3 - 6 Months"
+"5,Preparing for Google Cloud Certification: Cloud Data Engineer,""Data Management, Cloud Computing, Data Analysis Software"",""4,6"",19000,Intermediate,Professional Certificate,3 - 6 Months"
+"6,Microsoft Azure Data Engineering Associate (DP-203),""Data Management, Microsoft Azure, Extract"",""4,3"",1200,Intermediate,Professional Certificate,3 - 6 Months"
+"7,Google Cloud Database Engineer,""Databases, Cloud Computing, Google Cloud Platform"",""4,7"",49000,Intermediate,Specialization,3 - 6 Months"
+"8,IBM Data Warehouse Engineer,""Databases, Data Management, Database Administration"",""4,7"",5200,Beginner,Professional Certificate,3 - 6 Months"
+"9,""Data Engineering, Big Data, and Machine Learning on GCP"",""Cloud Computing, Cloud Platforms, Google Cloud Platform"",""4,6"",18000,Intermediate,Specialization,3 - 6 Months"
+"10,Introduction to Data Engineering,""Data Engineering, Data Management, Extract"",""4,7"",2800,Beginner,Course,1 - 4 Weeks"
+"11,Introduction to Data Engineering,Data Architecture,""4,8"",196,Intermediate,Course,1 - 4 Weeks"
+"12,""Python, Bash and SQL Essentials for Data Engineering"",""Computer Programming, Programming Principles, Python Programming"",""4,5"",390,Beginner,Specialization,3 - 6 Months"
